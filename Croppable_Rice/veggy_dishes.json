@@ -16,8 +16,9 @@
     "material": "veggy",
     "primary_material": "dried_vegetable",
     "volume": "250 ml",
-    "flags": [ "EDIBLE_FROZEN" ],
-    "vitamins": [ [ "iron", 8 ] ],
+    "flags": ["EDIBLE_FROZEN", "RAW", "SMOKABLE"],
+    "smoking_result": "dry_rice",
+    "vitamins": [["iron", 8]],
     "fun": -25
   }
 ]
